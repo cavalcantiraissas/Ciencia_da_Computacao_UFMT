@@ -2,15 +2,6 @@
 
 Bem-vindo ao repositório **Ciencia_da_Computacao_UFMT**! 🚀 Aqui, você encontrará um compilado das minhas atividades, trabalhos, resumos e anotações ao longo do curso de **Ciência da Computação** na UFMT.
 
-## 📂 Estrutura do Repositório
-
-📁 **Primeiro_Semestre**  
-📁 **Segundo_Semestre**  
-📁 **Terceiro_Semestre**  
-📁 **Quarto_Semestre**  
-📁 **Projetos_e_Trabalhos**  
-📁 **Resumos_e_Anotações**  
-
 ## 🖥️ Sobre o Curso
 Este repositório serve como um **diário de estudos**, ajudando a organizar e compartilhar conhecimento sobre as disciplinas vistas no curso.
 
