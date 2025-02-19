@@ -4,12 +4,12 @@ Bem-vindo ao repositório **Ciencia_da_Computacao_UFMT**! 🚀 Aqui, você encon
 
 ## 📂 Estrutura do Repositório
 
-📁 **1º Semestre**  
-📁 **2º Semestre**  
-📁 **3º Semestre**  
-📁 **4º Semestre**  
-📁 **Projetos e Trabalhos**  
-📁 **Resumos e Anotações**  
+📁 **Primeiro_Semestre**  
+📁 **Segundo_Semestre**  
+📁 **Terceiro_Semestre**  
+📁 **Quarto_Semestre**  
+📁 **Projetos_e_Trabalhos**  
+📁 **Resumos_e_Anotações**  
 
 ## 🖥️ Sobre o Curso
 Este repositório serve como um **diário de estudos**, ajudando a organizar e compartilhar conhecimento sobre as disciplinas vistas no curso.
