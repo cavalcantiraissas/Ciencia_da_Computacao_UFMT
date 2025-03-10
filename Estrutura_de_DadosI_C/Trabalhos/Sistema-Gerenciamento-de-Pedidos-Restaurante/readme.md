@@ -38,7 +38,7 @@ O código está organizado nos seguintes arquivos:
 # 🚀 Como Executar o Projeto
 ## Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Sistema-Gerenciamento-de-Pedidos-Restaurante.git
+   git clone https://github.com/cavalcantiraissas/Sistema-Gerenciamento-de-Pedidos-Restaurante.git
    cd Sistema-Gerenciamento-de-Pedidos-Restaurante
 
 ## Compile os arquivos
