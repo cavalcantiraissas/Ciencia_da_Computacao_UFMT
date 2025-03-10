@@ -1,8 +1,7 @@
 /*
 Universidade Federal de Mato Grosso
 Disciplina: Estrutura de Dados I
-Alunos: Raissa Cavalcanti (RGA:202311722030) e Murilo Becker (RGA: 202411722030)
-
+Alunos: Raissa Cavalcanti
 Teste de Lista dinamica
 
 */
