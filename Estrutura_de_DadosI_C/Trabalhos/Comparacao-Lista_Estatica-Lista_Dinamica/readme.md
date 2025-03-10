@@ -11,11 +11,11 @@ O projeto visa avaliar listas estáticas e dinâmicas em diferentes contextos, m
 **Lista Duplamente Encadeada** (permite navegação em ambos os sentidos).
 
 ## 🛠️ Funcionalidades do Sistema
-✅ *Geração randômica* de 10.000 valores inteiros para inserção.
-✅ *Inserção* em três cenários diferentes: **início, fim e posição aleatória**.
-✅ Medição do *tempo de execução* usando clock() da biblioteca <time.h>.
-✅ *Análise comparativa* do tempo de execução entre os três tipos de lista.
-✅ Relatório final com resultados e interpretação dos dados.
+- ✅ *Geração randômica* de 10.000 valores inteiros para inserção.
+- ✅ *Inserção* em três cenários diferentes: **início, fim e posição aleatória**.
+- ✅ Medição do *tempo de execução* usando clock() da biblioteca <time.h>.
+- ✅ *Análise comparativa* do tempo de execução entre os três tipos de lista.
+- ✅ Relatório final com resultados e interpretação dos dados.
 
 ## 📌 Estrutura do Código
 
