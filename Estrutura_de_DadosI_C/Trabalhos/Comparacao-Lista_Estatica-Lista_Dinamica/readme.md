@@ -54,18 +54,18 @@ cd Comparacao-Lista_Estatica-Lista_Dinamica
 
 Para testar a lista estática:
 ```
-gcc main_est.c lst_est.c -o lista_estatica
-./lista_estatica
+gcc main_estatica.c lista_estatica.c -o cod_lista_estatica
+./cod_lista_estatica
 ```
 Para testar a lista encadeada:
 ```
-gcc main_din.c lst_din.c -o lista_dinamica
-./lista_dinamica
+gcc main_dinamica.c lista_dinamica.c -o cod_lista_dinamica
+./cod_lista_dinamica
 ```
 Para testar a lista duplamente encadeada:
 ```
-gcc main_dpl_enc.c lst_dpl_enc.c -o lista_duplamente_encadeada
-./lista_duplamente_encadeada
+gcc main_duplamente_encadeada.c lista_duplamente_encadeada.c -o cod_lista_duplamente_encadeada
+./cod_lista_duplamente_encadeada
 ```
 
 # 📌 Sobre o Trabalho
